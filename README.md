@@ -1,4 +1,4 @@
-### Face Mask Detection with OpenCV and Deep Learning
+# Face Mask Detection with OpenCV and Deep Learning
 This project aims to detect whether individuals in real-time video streams are wearing face masks or not. It combines computer vision techniques, utilizing OpenCV, with deep learning methodologies, using a Convolutional Neural Network (CNN) model.
 
 ## Features
