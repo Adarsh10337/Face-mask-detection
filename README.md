@@ -33,6 +33,10 @@ pip install -r requirements.txt
 
 3) Split the dataset into training and testing sets. You can use the train_test_split() function from scikit-learn to achieve this.
 
+## for datasets visit the following link
+
+https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
+
 ## Training the Model
 Update the file paths and parameters in the code to match your dataset and requirements.
 
